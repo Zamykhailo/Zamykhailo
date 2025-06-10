@@ -1,0 +1,9 @@
+Please create a new folder for every homework you do in the following format:
+week-2-html-website
+week-3-js-algorithms
+week-4-js-algorithms
+week-5-js-algorithms
+week-6-js-algorithms
+Week-7-cy-automation
+Week-8-cy-automation
+...
