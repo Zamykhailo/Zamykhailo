@@ -1,0 +1,114 @@
+{
+    "status": "Success",
+    "total": 380,
+    "matches": [
+      {
+        "_id": "6485aa580f306acf6c14fcb0",
+        "matchId": "10-016",
+        "userId": "648323844d8eda7b5380c414",
+        "username": "Tierry Henry",
+        "matchInfo": {
+          "time": "00:30",
+          "address": {
+            "latitude": 37.800796358053347,
+            "longitude": -122.41426592873924
+          },
+          "addressString": "890 Filbert St, San Francisco",
+          "format": {
+            "name": "Main.substitutions",
+            "fullName": "6х6+4 "
+          },
+          "length": 60,
+          "coating": "Main.artificialGrass",
+          "covering": "Main.onTheStreet",
+          "isDressingRoom": true,
+          "isShower": false,
+          "comment": "",
+          "isPrivate": false
+        },
+        "locationlvl1": "Germany",
+        "locationlvl2": "Berlin",
+        "locationlvl3": "Charlottenburg-Wilmersdorf",
+        "activeUsers": [],
+        "pendingUsers": [],
+        "canceledUsers": [
+          "648323844d8eda7b5380c414"
+        ],
+        "price": 0,
+        "status": "canceled",
+        "currency": "EUR",
+        "placesTotal": 8,
+        "placesUsed": 0,
+        "queuedPlaces": 0,
+        "canceledPlaces": 0,
+        "matchDate": "2023-06-14T21:30:00.000Z",
+        "serviceFeePerPlayer": 0,
+        "platformPaymentAmount": 1,
+        "creatorComissionPerPlayer": 3,
+        "acquiringPerPlayer": 0.125,
+        "creatorFeePerPlayer": 3.25,
+        "shouldReceive": 26,
+        "servicePaymentShould": 0,
+        "creatorPaymentShould": 24,
+        "platformFeePerPlayer": 0.125,
+        "createdAt": "2023-06-11T11:04:56.734Z",
+        "updatedAt": "2023-06-11T11:14:11.141Z",
+        "cansuledRequest": "2023-06-11T11:14:11.141Z",
+        "creatorReason": "Все"
+      },
+      {
+        "_id": "6484816f0f306acf6c1483dd",
+        "matchId": "10-015",
+        "userId": "6481a3427c0104eb2e94a70a",
+        "username": "David Beckham",
+        "matchInfo": {
+          "time": "22:00",
+          "address": {
+            "latitude": 52.253138056753151,
+            "longitude": 20.878239422183679
+          },
+          "addressString": "Skłoby 21, 01-473 Warszawa",
+          "format": {
+            "name": "Main.noSubstitutions",
+            "fullName": "7х7 "
+          },
+          "length": 60,
+          "coating": "Main.artificialGrass",
+          "covering": "Main.inBuilding",
+          "isDressingRoom": true,
+          "isShower": true,
+          "comment": "",
+          "isPrivate": false
+        },
+        "locationlvl1": "Germany",
+        "locationlvl2": "Berlin",
+        "locationlvl3": "Friedrichshain-Kreuzberg",
+        "activeUsers": [],
+        "pendingUsers": [],
+        "canceledUsers": [
+          "6481a3427c0104eb2e94a70a"
+        ],
+        "price": 5,
+        "status": "canceled",
+        "currency": "EUR",
+        "placesTotal": 14,
+        "placesUsed": 0,
+        "queuedPlaces": 0,
+        "canceledPlaces": 0,
+        "matchDate": "2023-06-10T20:00:00.000Z",
+        "serviceFeePerPlayer": 0,
+        "platformPaymentAmount": 1,
+        "creatorComissionPerPlayer": 3,
+        "acquiringPerPlayer": 0.12285714285714286,
+        "creatorFeePerPlayer": 3.1942857142857144,
+        "shouldReceive": 44.72,
+        "servicePaymentShould": 0,
+        "creatorPaymentShould": 42,
+        "platformFeePerPlayer": 0.071428571428571425,
+        "createdAt": "2023-06-10T13:58:07.954Z",
+        "updatedAt": "2023-06-10T13:58:44.032Z",
+        "cansuledRequest": "2023-06-10T13:58:44.032Z",
+        "creatorReason": "Конец"
+      }
+    ]
+  }
