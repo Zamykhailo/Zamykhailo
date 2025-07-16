@@ -1,6 +1,12 @@
-# Playwright
+# Node.js
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
+.DS_Store
+
+# Playwright test output
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Mac system files
+.DS_Store
